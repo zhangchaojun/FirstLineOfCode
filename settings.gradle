@@ -1,1 +1,3 @@
-include ':app', ':mycontentprovider'
+include ':app',
+        ':mycontentprovider',
+        ':mysqlite'
